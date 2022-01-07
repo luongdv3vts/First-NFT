@@ -1,5 +1,5 @@
 # First-NFT
-```
+```json
 {
   "name": "myfirstnft",
   "version": "1.0.0",
